@@ -33,8 +33,13 @@ hr {
   background-color: #F05F44;
   border-color: #F05F44;
   --bs-btn-hover-bg: #ee4b08;	
-  --bs-btn-hover-border-color: #ee4b08;
+  --bs-btn-hover-border-color: #ee4b08;  
+  --bs-btn-active-bg: #ce440d;	
+  --bs-btn-active-border-color: #ce440d;
+
 }
+
+
 
 .btn-xl {
   padding: 1rem 2rem;
